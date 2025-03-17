@@ -1,0 +1,14 @@
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\bin\Debug\net8.0\EntityFrameworkBaseConsoleApp.exe
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\bin\Debug\net8.0\EntityFrameworkBaseConsoleApp.deps.json
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\bin\Debug\net8.0\EntityFrameworkBaseConsoleApp.runtimeconfig.json
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\bin\Debug\net8.0\EntityFrameworkBaseConsoleApp.dll
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\bin\Debug\net8.0\EntityFrameworkBaseConsoleApp.pdb
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\obj\Debug\net8.0\EntityFrameworkBaseConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\obj\Debug\net8.0\EntityFrameworkBaseConsoleApp.AssemblyInfoInputs.cache
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\obj\Debug\net8.0\EntityFrameworkBaseConsoleApp.AssemblyInfo.cs
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\obj\Debug\net8.0\EntityFrameworkBaseConsoleApp.csproj.CoreCompileInputs.cache
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\obj\Debug\net8.0\EntityFrameworkBaseConsoleApp.dll
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\obj\Debug\net8.0\refint\EntityFrameworkBaseConsoleApp.dll
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\obj\Debug\net8.0\EntityFrameworkBaseConsoleApp.pdb
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\obj\Debug\net8.0\EntityFrameworkBaseConsoleApp.genruntimeconfig.cache
+C:\Workspace\NetTutorial\EntityFrameworkBase\src\EntityFrameworkBaseConsoleApp\obj\Debug\net8.0\ref\EntityFrameworkBaseConsoleApp.dll
